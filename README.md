@@ -15,6 +15,12 @@ I enjoy exploring new technologies, developing software and solving engineering 
 
 ---
 
+<p align="center">
+  <img src="sakura.gif" width="100%" />
+</p>
+
+---
+
 ## Tech Stack
 
 <p align="center">
