@@ -1,15 +1,15 @@
 
-# sw1ssl0ve
+# `sw1ssl0ve`
 
-**Software Developer · Engineering · Technology**
+**SOFTWARE DEVELOPMENT · ENGINEERING · TECHNOLOGY**
 
 ---
 
-## About me
+### ABOUT
 
 Interested in software engineering, system architecture and modern technologies.
 
-Currently exploring programming, networking and software development.
+I enjoy exploring new technologies, developing software and solving engineering problems.
 
 ---
 
@@ -21,13 +21,12 @@ Currently exploring programming, networking and software development.
 ![C++](https://img.shields.io/badge/C++-181818?style=flat-square&logo=cplusplus&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-181818?style=flat-square&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-181818?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-181818?style=flat-square&logo=linux&logoColor=white)
 
 ---
 
-## Support my work
+### SUPPORT
 
-If you appreciate my work, you can support me through cryptocurrency donations.
+Your support helps me continue learning, experimenting and building.
 
 **BTC · Bitcoin**
 ```text
@@ -46,4 +45,4 @@ TKRdMNhunBajoujiWd9aKXpiVH2GcJeYAg
 
 ---
 
-*Building things that work.*
+**Building things that work.**
