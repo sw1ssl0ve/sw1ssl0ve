@@ -29,7 +29,7 @@ I enjoy exploring new technologies, developing software and solving engineering 
 
 ---
 
-### SUPPORT
+### ☕SUPPORT☕
 
 Your support helps me continue learning, experimenting and building.
 
