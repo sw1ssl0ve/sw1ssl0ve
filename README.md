@@ -21,8 +21,6 @@ I enjoy exploring new technologies, developing software and solving engineering 
 
 ---
 
-## Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,java,python,cpp,androidstudio,git,github,vscode&theme=dark" />
 </p>
